@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Analysis\\MultidimensionalProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|D:\\Analysis\\MultidimensionalProject1\\Prod_cust Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|solutionrelative:Prod_cust Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|D:\\Analysis\\MultidimensionalProject1\\Sales Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|solutionrelative:Sales Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|D:\\Analysis\\MultidimensionalProject1\\ProductCube1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|solutionrelative:ProductCube1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|D:\\Analysis\\MultidimensionalProject1\\ProductCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5BA2BD9C-B556-DEF4-AAF4-FC952572A547}|MultidimensionalProject1.dwproj|solutionrelative:ProductCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prod_cust Cube.cube [Design]",
+              "DocumentMoniker": "D:\\Analysis\\MultidimensionalProject1\\Prod_cust Cube.cube",
+              "RelativeDocumentMoniker": "Prod_cust Cube.cube",
+              "ToolTip": "D:\\Analysis\\MultidimensionalProject1\\Prod_cust Cube.cube [Design]",
+              "RelativeToolTip": "Prod_cust Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T14:32:45.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales Cube.cube [Design]",
+              "DocumentMoniker": "D:\\Analysis\\MultidimensionalProject1\\Sales Cube.cube",
+              "RelativeDocumentMoniker": "Sales Cube.cube",
+              "ToolTip": "D:\\Analysis\\MultidimensionalProject1\\Sales Cube.cube [Design]",
+              "RelativeToolTip": "Sales Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T14:30:25.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCube1.cube [Design]",
+              "DocumentMoniker": "D:\\Analysis\\MultidimensionalProject1\\ProductCube1.cube",
+              "RelativeDocumentMoniker": "ProductCube1.cube",
+              "ToolTip": "D:\\Analysis\\MultidimensionalProject1\\ProductCube1.cube [Design]",
+              "RelativeToolTip": "ProductCube1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T14:30:07.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCube.cube [Design]",
+              "DocumentMoniker": "D:\\Analysis\\MultidimensionalProject1\\ProductCube.cube",
+              "RelativeDocumentMoniker": "ProductCube.cube",
+              "ToolTip": "D:\\Analysis\\MultidimensionalProject1\\ProductCube.cube [Design]",
+              "RelativeToolTip": "ProductCube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T14:29:10.191Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
